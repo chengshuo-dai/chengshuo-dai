@@ -38,24 +38,36 @@ Direction    From research prototypes to reliable user-facing AI systems
   <tr>
     <td width="50%">
       <a href="https://github.com/chengshuo-dai/medicare_agent">
-        <img src="./assets/card-medicare.svg" alt="MediCareAI Agent" width="100%" />
+        <img src="./assets/card-medicare.svg" alt="medicare_agent" width="100%" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/chengshuo-dai/Agentic-RAG">
-        <img src="./assets/card-agentic-rag.svg" alt="Agentic RAG" width="100%" />
+      <a href="https://github.com/chengshuo-dai/Evo-SearchAgent">
+        <img src="./assets/card-evo-searchagent.svg" alt="Evo-SearchAgent" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/chengshuo-dai/Multi-Session-Academic-Research-Agent">
-        <img src="./assets/card-research-agent.svg" alt="Multi-Session Academic Research Agent" width="100%" />
+      <a href="https://github.com/chengshuo-dai/DeepFocus">
+        <img src="./assets/card-deepfocus.svg" alt="DeepFocus" width="100%" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/chengshuo-dai/RAG_PDF_Chatbot">
-        <img src="./assets/card-pdf-chatbot.svg" alt="RAG PDF Chatbot" width="100%" />
+      <a href="https://github.com/chengshuo-dai/natural-language-multimodel-search">
+        <img src="./assets/card-natural-language-search.svg" alt="natural-language-multimodel-search" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/chengshuo-dai/miniopenclaw">
+        <img src="./assets/card-miniopenclaw.svg" alt="miniopenclaw" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/chengshuo-dai/AstraMind">
+        <img src="./assets/card-astramind.svg" alt="AstraMind" width="100%" />
       </a>
     </td>
   </tr>
