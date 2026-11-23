@@ -6,8 +6,9 @@ I build AI products and agent systems. M.S. Biostatistics (Data Science) at Yale
 
 ## Now
 
-- **Vinote**, a note app for videos. Paste a YouTube or Bilibili link and get study notes with clickable timestamps, filed in a folder tree as deep as the subject goes. Transcription runs on-device with whisper.cpp; the Mac app is signed, notarized and updates itself. Builds will be published at [vinote-releases](https://github.com/chengshuo-dai/vinote-releases).
+- **Vinote**, a note app for videos. Paste a YouTube or Bilibili link and get study notes with clickable timestamps, filed in a folder tree as deep as the subject goes. Transcription runs on-device with whisper.cpp, and the Mac app updates itself. Free for Apple silicon Macs at [vinote.lucasdai.cn](https://vinote.lucasdai.cn); the first 5 notes need no API key. Releases are at [vinote-releases](https://github.com/chengshuo-dai/vinote-releases).
 - **SpeakEase**, dictation for non-native English speakers. Instead of a separate study app, it puts speaking English into the work you already do: it keeps what you actually said, then shows grammar, more natural phrasing and pronunciation feedback next to the text. The goal is to think in English every day.
+- **Tuck**, a focus companion for iPhone that gives your attention back. Start a session and put the phone down; if you really need an app, ask Tuck by typing or talking, and an agent weighs your reason and gives you a few minutes or a kind no. SwiftUI, a small agent backend and a live voice model. [tuck.lucasdai.cn](https://tuck.lucasdai.cn)
 - At work: evaluating agents after they are built and turning the ones that hold up into reusable templates.
 
 ## Selected work
